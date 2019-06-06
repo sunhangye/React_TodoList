@@ -66,3 +66,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+> store 是唯一的;只有store能修改自己的内容;actionReducter一定是纯函数.
+
+UI组件 --> 傻瓜组件
+容器组件 --> 聪明组件
