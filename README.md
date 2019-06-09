@@ -71,3 +71,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 UI组件 --> 傻瓜组件
 容器组件 --> 聪明组件
+
+# redux thunk
+  redux中间件是对action和store中间函数dispatch的封装，使得之前action只能是个js对象变成现在可以是个函数派发给store
